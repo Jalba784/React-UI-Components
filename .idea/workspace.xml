@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bedf3f0-5780-4e41-a648-a46cd2820f27" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js" afterDir="false" />
-    </list>
+    <list default="true" id="5bedf3f0-5780-4e41-a648-a46cd2820f27" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -49,8 +44,8 @@
               <file pinned="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state relative-caret-position="149">
-                      <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+                    <state relative-caret-position="23">
+                      <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
                       <folding>
                         <element signature="e#0#26#0" expanded="true" />
                       </folding>
@@ -66,7 +61,7 @@
                 <entry file="file://$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css">
                   <provider selected="true" editor-type-id="text-editor">
                     <state relative-caret-position="115">
-                      <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+                      <caret line="5" selection-start-line="5" selection-end-line="5" />
                     </state>
                   </provider>
                 </entry>
@@ -114,8 +109,8 @@
         <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/HeaderComponents/ImageThumbnail.js" />
         <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/CardComponents/Card.css" />
         <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/App.js" />
-        <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js" />
         <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css" />
+        <option value="$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js" />
       </list>
     </option>
   </component>
@@ -253,12 +248,12 @@
       <updated>1559151470537</updated>
       <workItem from="1559151474683" duration="13940000" />
       <workItem from="1559206018990" duration="4344000" />
-      <workItem from="1559346337357" duration="14431000" />
+      <workItem from="1559346337357" duration="14742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32715000" />
+    <option name="totallyTimeSpent" value="33026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="768" extended-state="0" />
@@ -270,7 +265,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32931727" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.394913" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.394913" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -485,20 +480,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Project-I-Social-Card/social-card/src/components/FooterComponents/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
