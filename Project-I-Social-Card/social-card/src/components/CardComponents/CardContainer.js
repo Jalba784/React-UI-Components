@@ -5,8 +5,11 @@ import CardBanner from './CardBanner.js';
 import CardContent from './CardContent.js';
 
 function CardContainer() {
+    function redirectToReact() {
+        window.location = "https://www.reactjs.org";
+    }
     return (
-        <div className='card-cont'>
+        <div className='card-cont' onClick={redirectToReact}>
             <CardBanner/>
             <CardContent/>
         </div>

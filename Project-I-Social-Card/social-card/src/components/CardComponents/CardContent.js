@@ -8,14 +8,14 @@ function CardContent() {
                 <h2>Get started with React</h2>
             </div>
             <div className='content-para'>
-                <p>
+                <p className='card-para'>
                     React makes it painless to create interactive UIs.
                     Design simple views for each state in your
                     application.
                 </p>
             </div>
             <div className='content-react-web'>
-                <p>
+                <p className='card-para' id='react-site'>
                     reactjs.org
                 </p>
             </div>
