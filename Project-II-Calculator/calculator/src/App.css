@@ -3,10 +3,38 @@
 }
 
 /* This wraps the whole calculator */
-.calc-wrap {
+.calcWrap {
     width: 455px;
     height: 600px;
     margin-left: 455px;
 }
 
-/* Display */
+.displayRow {
+    width: 100%;
+    height: 115px;
+}
+.clearRow {
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
+.thirdRow {
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
+.fourthRow {
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
+.fifthRow {
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
+.lastRow {
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
