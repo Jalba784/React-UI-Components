@@ -40,6 +40,7 @@
     height: 95px;
     background-color: #BC3134;
     color: white;
+    font-size: 30px;
 }
 
 /* White Buttons */
@@ -48,6 +49,7 @@
     height: 95px;
     background-color: white;
     color: black;
+    font-size: 30px;
 }
 
 /* Long Buttons */
@@ -56,8 +58,5 @@
     height: 95px;
     background-color: white;
     color: black;
-}
-
-.text {
-    font-size: 20px;
+    font-size: 30px;
 }
