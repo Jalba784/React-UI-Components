@@ -9,32 +9,55 @@
     margin-left: 455px;
 }
 
+/* Display Styling */
+.longDisplay {
+    background-color: #17191A;
+    color: white;
+}
+
+/* Rows */
 .displayRow {
     width: 100%;
     height: 115px;
 }
-.clearRow {
+.clearRow, .thirdRow, .fourthRow, .fifthRow, .lastRow {
     display: flex;
     width: 100%;
     height: 95px;
 }
-.thirdRow {
-    display: flex;
-    width: 100%;
+
+/* Clear Button */
+.clear {
+    background-color: white;
+    width: 341px;
     height: 95px;
+    color: black;
 }
-.fourthRow {
-    display: flex;
-    width: 100%;
+
+/* Red Buttons */
+.redBtn {
+    width: 114px;
     height: 95px;
+    background-color: #BC3134;
+    color: white;
 }
-.fifthRow {
-    display: flex;
-    width: 100%;
+
+/* White Buttons */
+.whiteBtn {
+    width: 114px;
     height: 95px;
+    background-color: white;
+    color: black;
 }
-.lastRow {
-    display: flex;
-    width: 100%;
+
+/* Long Buttons */
+.longBtns {
+    width: 341px;
     height: 95px;
+    background-color: white;
+    color: black;
+}
+
+.text {
+    font-size: 20px;
 }

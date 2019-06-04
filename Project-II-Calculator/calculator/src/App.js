@@ -8,33 +8,33 @@ const App = () => {
   return (
     <div className='calcWrap'>
         <div className='displayRow'>
-            <CalculatorDisplay className='calcDisp' text='0'/>
+            <CalculatorDisplay buttonStyle='longDisplay' text='0'/>
         </div>
         <div className='clearRow'>
-            <ActionButton className='clear' text='clear'/>
-            <NumberButton className='redBtn' text='/'/>
+            <ActionButton buttonStyle='longBtns' text='clear'/>
+            <NumberButton buttonStyle='redBtn' text='/'/>
         </div>
         <div className='thirdRow'>
-            <NumberButton className='whiteBtn' text='7'/>
-            <NumberButton className='whiteBtn' text='8'/>
-            <NumberButton className='whiteBtn' text='9'/>
-            <NumberButton className='redBtn' text='X'/>
+            <NumberButton buttonStyle='whiteBtn' text='7'/>
+            <NumberButton buttonStyle='whiteBtn' text='8'/>
+            <NumberButton buttonStyle='whiteBtn' text='9'/>
+            <NumberButton buttonStyle='redBtn' text='X'/>
         </div>
         <div className='fourthRow'>
-            <NumberButton className='whiteBtn' text='4'/>
-            <NumberButton className='whiteBtn' text='5'/>
-            <NumberButton className='whiteBtn' text='6'/>
-            <NumberButton className='redBtn' text='-'/>
+            <NumberButton buttonStyle='whiteBtn' text='4'/>
+            <NumberButton buttonStyle='whiteBtn' text='5'/>
+            <NumberButton buttonStyle='whiteBtn' text='6'/>
+            <NumberButton buttonStyle='redBtn' text='-'/>
         </div>
         <div className='fifthRow'>
-            <NumberButton className='whiteBtn' text='1'/>
-            <NumberButton className='whiteBtn' text='2'/>
-            <NumberButton className='whiteBtn' text='3'/>
-            <NumberButton className='redBtn' text='+'/>
+            <NumberButton buttonStyle='whiteBtn' text='1'/>
+            <NumberButton buttonStyle='whiteBtn' text='2'/>
+            <NumberButton buttonStyle='whiteBtn' text='3'/>
+            <NumberButton buttonStyle='redBtn' text='+'/>
         </div>
         <div className='lastRow'>
-            <ActionButton className='zero' text='0'/>
-            <NumberButton className='redBtn' text='='/>
+            <ActionButton buttonStyle='longBtns' text='0'/>
+            <NumberButton buttonStyle='redBtn' text='='/>
         </div>
 
 
